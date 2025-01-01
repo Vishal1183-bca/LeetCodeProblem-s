@@ -2,6 +2,12 @@
 //01-01-2025
 //https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
 
+
+//this Problem Divide into 3 part
+//1.count the digit
+//2.check counted digit is even or not
+//3.if digit is even than increment the counter and return it
+
 public class FindNumberswithEvenNumberofDigits_1295 
 {
     public static int findNumbers(int[] nums) {
